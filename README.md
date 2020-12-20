@@ -1,5 +1,5 @@
 # datastruct_algorithm_practice
-practice big o notation and data structures and algorithms
+practice big o notation, data structures and algorithms
 
 
 ## Dependencies
